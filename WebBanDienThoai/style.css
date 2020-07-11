@@ -26,7 +26,7 @@ h5,
 h6 {
     margin: 0 0 15px;
 }
-body { font-family:Arial, Helvetica, sans-serif; }
+body { font-family:'Times New Roman', Times, serif }
 
 
 
@@ -74,7 +74,7 @@ body { font-family:Arial, Helvetica, sans-serif; }
 }
 
 .mainmenu-area {background: none repeat scroll 0 0 #fbfbfb;
-font-family: "Roboto Condensed",sans-serif;
+font-family:'Times New Roman', Times, serif;    
 text-transform: uppercase;
 width: 100%;
 z-index: 999;}
@@ -83,7 +83,7 @@ z-index: 999;}
 
 .logo h1 {
     font-size: 40px;
-    margin: 30px 0;font-weight: 400;
+    margin: 5px ;
 }
 .logo h1 a {
     color: #999;
@@ -299,7 +299,7 @@ z-index: 999;}
 }
 
 .button-radius .icon:before{
-  font-family: 'FontAwesome';
+  font-family: 'Times New Roman', Times, serif;
   content: "\f105";
   font-size: 14px;
   color: #fff;
@@ -366,7 +366,7 @@ z-index: 999;}
 .promo3 { background:#fa8072;}
 .promo4 { background:#4abebd;}
 .section-title {
-  font-family: "Raleway",sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 50px;
   font-weight: 100;
   margin-bottom: 50px;
@@ -491,7 +491,7 @@ z-index: 999;}
 .maincontent-area {padding-bottom: 50px; padding-top:20px;}
 
 .product-wid-title {
-  font-family: raleway;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 30px;
   font-weight: 100;
   margin-bottom: 40px;
@@ -556,7 +556,7 @@ padding: 35px 0 180px;}
   color: #5a88ca;
 }
 .footer-wid-title {
-  font-family: raleway;
+  font-family:'Times New Roman', Times, serif;
   font-size: 30px;
   font-weight: 100;color: #fff
 }
@@ -681,7 +681,7 @@ width: 10px;
 .product-big-title-area {background: url(img/crossword.png) repeat scroll 0 0 #5a88ca}
 
 .product-bit-title h2 {
-  font-family: raleway;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 50px;
   font-weight: 200;
   margin: 0;
